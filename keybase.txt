@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/jcombs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joshuacombs.me
+  * I am jcombs (https://keybase.io/jcombs) on keybase.
+  * I have a public key with fingerprint 1E25 78FB 80E3 BDD7 383A  3A06 846E 2C60 E1CA A030
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120d1b8f80493f3568cc947485daf679738927fb14deaafdfa383ecb03af434ee250a",
+            "fingerprint": "1e2578fb80e3bdd7383a3a06846e2c60e1caa030",
+            "host": "keybase.io",
+            "key_id": "846e2c60e1caa030",
+            "kid": "0101a2f264cebdbfec5e6d3dfeb8b83b2673be822f272dd6b0e2142923ea8aa7717a0a",
+            "uid": "8ea419d017ef4a74e49b07497f21dc19",
+            "username": "jcombs"
+        },
+        "service": {
+            "hostname": "joshuacombs.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1458081906,
+    "expire_in": 157680000,
+    "prev": "009e7d8db557d209c4db72785ef2ac1ba86a5111f2b49abcd38495f6d286bc9d",
+    "seqno": 46,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtUm1QVFUYXkhQlyDscxQc7Yapw0L3+2NhnHAG0QgD8YMGmPWce87dvS57F3YX
+lg8ZMEyE0EFcYaDCQBrQDDSlKSuLYgcim7CJsrIxGocEpJnUNGSE7lL86/w5c573
+eZ73ed859eEPGYxB+zXT7tGht8igr8ahYeeN+tIyAjpRCWEuI+x4/sJ5CLs9FruK
+CDNBUjSJKCgqIslKjMJwvCjLEiuwIoeAwguSwIgSLSiQYhEGQEEKYEQGy5BkgMIy
+LMY0RwLCRCiqZsWufJeqeXRbSocFUYEiiRmIkG7CAAaQvMjymJZ5ElMyACRD6kKb
+0x1Q6OEgcON41alj+sMyH+9/+Au5SQrQCs2zMoYIKljmMI8YpGAoQpGBNC8wEIu0
+ThFohHhIYppiaYlmMBABEARKAPO5C//tgwFLSYikBKywQGAxK0FSYCVBoSkkU1KA
+6MYuDTiwzt4jOx3QTZSbCB0rUmUcWGtgjoW6020rBPOkeB0wEfkup8cpO/P0ms3j
+yTcHpJ6S/ADXi6HlPxcLVDWkr1EXFGGXW3VqhJnSmbJHDdhSLCeSIiWRvInAxfmq
+C1vUAIMTeJHUT6ANLgrshpSwgESUBTlOQDQpySyCAi2IHFZoIFMQiDzgKIpSaMhK
+AMqIEVmJU3hEizyUJUQEBivQnISZ1Xt5gFU3datWDXgKXZgoN9YERy8yBBkNoSHB
+gR9mMC6NXPh2fU89Mpe7raDMt2TrmHXlxmuT7bUd27prWyrq0x+lYgb/Ona3KmfN
+XLSU9l569lpITkwsGe6/Rs7Oft/zss916MsnzK8Hubc3/Jg7XrZcu+Lf7n+2dFOC
+raegY29UbFynIai3t+fDzMXXD73T3FnT6r0QFhuXdmEk7E3mjVcT0895JP+7dWeq
+1q2OQKu3tK4fung+PHW4PunmxMTWEWsB03g8/ySsGOmNtn8do/yRFluV2fCMcbrm
+3NwiVtOKPJ+dmjr6TWuCpWhm+UyIN/be4S57eXFbPz9gpO9k5/28edl6c98vr2Rl
+JJ+e3jA1te7BS/1Nda3ceFTPwG2iN8R2J3V0p7xMrvv8hUsHhgp/8z3u7k7RSmOK
+C5rarq6KBDEG69IOJTVUXuWfnL7Y0H9gQ07S2oHSt9fQdOKLjpb2Y+bIB5UDjku+
+FtK6L/SDscaT5UyWP9ou3tjl+Cjv9L3vjo6YTQ1N7Eh6d22OYZ9j8mrJ+J8Hz2fs
+OI4SEnff8j3Xdt8WUVG956dJ16/tlfaZ7Meuq1cGP7attBlyzd6bvsvp3ubWwb7F
+EeWzK4Izz76fZDy4seULsvOs+8ko9pOwpvhbRDXfeSa8OuX3Iykdp3a9Ntq1Y7/z
+xP3na+OiRvs21fnvHv72CJy4/Wnx5YrSvU//Xbc5eayG4H/YUuItc69ofjh5tstg
+rMw4EeNqHP4H
+=hqUv
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jcombs
+
+==================================================================

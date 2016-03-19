@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<p>{% include intro.html %}</p> 
+<ul>
+<li><b><a href="https://keybase.io/docs/kbfs" target="_blank">Keybase File System</a></b> - The ultimate distributed filesystem with end-to-end encryption and a global namespace.</li>
+</ul>
+
+<p>You can read my latest blog posts below:</p> 
+
+<div class="posts-home">
+  {% for post in site.posts %}
+    <article class="post">
+      <h5>{{ post.date | date: "%B %-d, %Y" }} - <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
+    </article>
+  {% endfor %}
+</div>
