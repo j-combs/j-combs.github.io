@@ -248,11 +248,11 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: $blue;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-    border: 0;
+    border-bottom: 2px solid #ccc;
 
     @include mobile {
       margin: 0 10px;
@@ -260,6 +260,7 @@ nav {
     }
   }
 }
+
 
 //
 // .main
