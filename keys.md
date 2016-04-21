@@ -12,6 +12,12 @@ permalink: /keys/
 
 ****
 
+****
+
+#### Signal Fingerprint
+
+	05 b9 b5 91 ce a9 85 ff 59 20 a2 7c a0 c5 b6 82 01 2c da ff 41 1b b3 bc 0c 28 d7 80 a9 6f 1a 3b 1e
+
 #### My public key
 
 	fingerprint: 1E25 78FB 80E3 BDD7 383A 3A06 846E 2C60 E1CA A030
