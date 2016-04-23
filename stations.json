@@ -30,11 +30,11 @@
      "longDesc": "Radio 1190 is the bomb."
      },
      {   
-     "name": "Radio 1190",
-     "streamURL": "http://radio1190.colorado.edu:8000/high.mp3",
-     "imageURL": "",
-     "desc": "KVCU - Boulder, CO",
-     "longDesc": "Radio 1190 is the bomb."
+     "name": "Revolution Radio",
+     "streamURL": "http://peridot.streamguys.com:6040/live-mp3",
+     "imageURL": "http://www.revolutionradiomiami.com/wp-content/uploads/2016/01/Logo_callsignals.png",
+     "desc": "Revolution Radio Miami",
+     "longDesc": "#1 EDM music machine."
      }
     ]
 }
