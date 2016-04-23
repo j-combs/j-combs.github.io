@@ -29,12 +29,12 @@
      "desc": "KVCU - Boulder, CO",
      "longDesc": "Radio 1190 is the bomb."
      },
-     {
-     "name": "Classic Rock FL",
-     "streamURL": "http://us1.internet-radio.com:8105/",
+     {   
+     "name": "Radio 1190",
+     "streamURL": "http://radio1190.colorado.edu:8000/high.mp3",
      "imageURL": "",
-     "desc": "Test Station",
-     "longDesc": "Test Station"
+     "desc": "KVCU - Boulder, CO",
+     "longDesc": "Radio 1190 is the bomb."
      }
     ]
 }
